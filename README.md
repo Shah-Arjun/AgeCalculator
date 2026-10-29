@@ -1,4 +1,4 @@
-# CodeAlpha_AgeCalculator
+# AgeCalculator
 
 🧮 Age Calculator (Web App)
 
